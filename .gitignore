@@ -1,0 +1,10 @@
+password.txt
+
+data/technitium/config/blocklists/
+data/technitium/config/logs/
+data/technitium/config/stats/
+data/technitium/config/auth.config
+data/technitium/config/cache.bin
+
+
+./  ../  apps/  blocklists/  logs/  scopes/  stats/  zones/  auth.config  cache.bin  dns.config  log.config

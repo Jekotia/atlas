@@ -1,10 +1,14 @@
-password.txt
+/cloudflare-credentials.ini
+/email.sh
+/password.txt
 
-data/technitium/config/blocklists/
-data/technitium/config/logs/
-data/technitium/config/stats/
-data/technitium/config/auth.config
-data/technitium/config/cache.bin
+/data/certbot/
+/data/technitium/cert/
+/data/technitium/config/blocklists/
+/data/technitium/config/logs/
+/data/technitium/config/stats/
+/data/technitium/config/auth.config
+/data/technitium/config/cache.bin
 
 
-./  ../  apps/  blocklists/  logs/  scopes/  stats/  zones/  auth.config  cache.bin  dns.config  log.config
+#./  ../  apps/  blocklists/  logs/  scopes/  stats/  zones/  auth.config  cache.bin  dns.config  log.config
